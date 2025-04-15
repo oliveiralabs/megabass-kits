@@ -1,68 +1,68 @@
 [
   {
     "name": "Paul Beatles",
-    "path": "online_kit_1",
-    "coverUrl": "https://oliveiralabs.github.io/megabass-kits/1/cover.png",
-    "zipUrl": "https://oliveiralabs.github.io/megabass-kits/1/kit.megabass"
-  },
-  {
-    "name": "Jaco Weather",
     "path": "online_kit_2",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/2/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/2/kit.megabass"
   },
   {
-    "name": "Duff Guns",
+    "name": "Jaco Weather",
     "path": "online_kit_3",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/3/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/3/kit.megabass"
   },
   {
-    "name": "Lemmy Motör",
+    "name": "Duff Guns",
     "path": "online_kit_4",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/4/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/4/kit.megabass"
   },
   {
-    "name": "Roger Floyd",
+    "name": "Lemmy Motör",
     "path": "online_kit_5",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/5/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/5/kit.megabass"
   },
   {
-    "name": "Geddy Rush",
+    "name": "Roger Floyd",
     "path": "online_kit_6",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/6/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/6/kit.megabass"
   },
   {
-    "name": "Flea Red Hot",
+    "name": "Geddy Rush",
     "path": "online_kit_7",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/7/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/7/kit.megabass"
   },
   {
-    "name": "Nikki Crue",
+    "name": "Flea Red Hot",
     "path": "online_kit_8",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/8/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/8/kit.megabass"
   },
   {
-    "name": "Jhon Queen",
+    "name": "Nikki Crue",
     "path": "online_kit_9",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/9/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/9/kit.megabass"
   },
   {
-    "name": "Doug Living",
+    "name": "Jhon Queen",
     "path": "online_kit_10",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/10/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/10/kit.megabass"
   },
   {
-    "name": "Steve Iron",
+    "name": "Doug Living",
     "path": "online_kit_11",
     "coverUrl": "https://oliveiralabs.github.io/megabass-kits/11/cover.png",
     "zipUrl": "https://oliveiralabs.github.io/megabass-kits/11/kit.megabass"
+  },
+  {
+    "name": "Steve Iron",
+    "path": "online_kit_12",
+    "coverUrl": "https://oliveiralabs.github.io/megabass-kits/12/cover.png",
+    "zipUrl": "https://oliveiralabs.github.io/megabass-kits/12/kit.megabass"
   }
 ]
